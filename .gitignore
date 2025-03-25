@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# numpy files and subfolders
 *.npy
+*/
+!*/*/
 # C extensions
 *.so
 
